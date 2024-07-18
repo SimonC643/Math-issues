@@ -1,11 +1,17 @@
-# Distance of the tips of a folded towel
+![image](https://github.com/user-attachments/assets/a16bc4e8-42f0-4d9d-ba18-44948f760e45)# Distance of the tips of a folded towel
 
 ## Introduction
 
+If you want to fold a rectangular, crumbled up Towel, you most likely take two random corners and pull it along them.  
+If you are lucky, you have found the matching corners to fold it nicely and you can continue the process till the towel is neatly folded.  
+Sometimes, you are not that lucky and you pick up the diagonal facing corners.  You now face W-shape-folded Towel.  
+
+If you are like me, the stupid thought of _"how far are the two remaining tips apart?"_ comes to your mind.
+This page will answer this question and will release your mind in peace.
 
 ## Theorem
 
-For a given Towel with a width of $`a > 0`$ and heigth of $`b > 0`$, where $`b>a`$, the distance of the two tips, when folded diagonally, is
+For a given rectangular Towel with a width of $`a > 0`$ and heigth of $`b > 0`$, where $`b>a`$, the distance of the two tips, when folded diagonally, is
 
 ```math
 \sqrt{a^2+b^2} - 2 \frac{a^2}{\sqrt{a^2+b^2}}
