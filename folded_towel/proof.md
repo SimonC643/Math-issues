@@ -1,15 +1,13 @@
-# Distance of the tips of a diagonally folded, rectangular towel
+# Distance Between the Tips of a Diagonally Folded Rectangular Towel
 
 ## Introduction
 
-If you want to fold a rectangular, crumbled up Towel, you most likely take two random corners and pull it along them.  
-If you are lucky, you have found the matching corners to fold it nicely and you can continue the process till the towel is neatly folded.  
-Sometimes, you are not that lucky and you pick up the diagonal facing corners.  You now face W-shape-folded Towel.  
+When folding a rectangular, crumpled-up towel, you typically take two random corners and pull them together. If you are lucky, you will find the matching corners and can neatly fold the towel. However, sometimes you pick the diagonal corners, resulting in a W-shaped fold.
 
-![Diagaonally Folded Towel](./towel.jpeg)
+![Diagonally Folded Towel](./towel.jpeg)
 
-If you are like me, the stupid thought of _"how far are the two remaining tips apart?"_ comes to your mind.
-This page will answer this question and will release your mind in peace.
+If you are like me, you might wonder, "How far apart are the two remaining tips?".  This page will answer that question, giving you peace of mind.
+
 
 ## Theorem
 
