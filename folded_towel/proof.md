@@ -51,3 +51,7 @@ Combine all, we get the theorem:
 ```math
 x = d - 2y = d - 2 \frac{a^2}{d} = \sqrt{a^2+b^2} - 2 \frac{a^2}{\sqrt{a^2+b^2}}
 ```
+
+## Credits
+* Towel picture made by myself
+* Diagrams made with [GeoGebra](https://www.geogebra.org/)
