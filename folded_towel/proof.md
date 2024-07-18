@@ -6,7 +6,7 @@ If you want to fold a rectangular, crumbled up Towel, you most likely take two r
 If you are lucky, you have found the matching corners to fold it nicely and you can continue the process till the towel is neatly folded.  
 Sometimes, you are not that lucky and you pick up the diagonal facing corners.  You now face W-shape-folded Towel.  
 
-![Diagaonally Folded Towel](./towel.jepg)
+![Diagaonally Folded Towel](./towel.jpeg)
 
 If you are like me, the stupid thought of _"how far are the two remaining tips apart?"_ comes to your mind.
 This page will answer this question and will release your mind in peace.
